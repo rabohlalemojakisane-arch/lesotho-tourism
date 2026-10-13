@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lesotho-tourism/static/css/main.fb8ea96c.css",
+    "main.js": "/lesotho-tourism/static/js/main.90f5086f.js",
+    "index.html": "/lesotho-tourism/index.html",
+    "main.fb8ea96c.css.map": "/lesotho-tourism/static/css/main.fb8ea96c.css.map",
+    "main.90f5086f.js.map": "/lesotho-tourism/static/js/main.90f5086f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8ea96c.css",
+    "static/js/main.90f5086f.js"
+  ]
+}
