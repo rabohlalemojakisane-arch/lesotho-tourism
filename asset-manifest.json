@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lesotho-tourism/static/css/main.fb8ea96c.css",
-    "main.js": "/lesotho-tourism/static/js/main.90f5086f.js",
+    "main.css": "/lesotho-tourism/static/css/main.f0213196.css",
+    "main.js": "/lesotho-tourism/static/js/main.c14b028c.js",
     "index.html": "/lesotho-tourism/index.html",
-    "main.fb8ea96c.css.map": "/lesotho-tourism/static/css/main.fb8ea96c.css.map",
-    "main.90f5086f.js.map": "/lesotho-tourism/static/js/main.90f5086f.js.map"
+    "main.f0213196.css.map": "/lesotho-tourism/static/css/main.f0213196.css.map",
+    "main.c14b028c.js.map": "/lesotho-tourism/static/js/main.c14b028c.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb8ea96c.css",
-    "static/js/main.90f5086f.js"
+    "static/css/main.f0213196.css",
+    "static/js/main.c14b028c.js"
   ]
 }
